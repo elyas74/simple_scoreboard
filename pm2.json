@@ -1,0 +1,9 @@
+{
+  "apps" : [{
+    "name"        : "acm_sign_up_v0.0.5",
+    "script"      : "./bin/www",
+    "err_file"    : "acm_sign_up_v0.0.5_err.log",
+    "out_file"    : "acm_sign_up_v0.0.5_out.log",
+    "args"        : "['-x']"
+  }]
+}

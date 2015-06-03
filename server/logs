@@ -1,0 +1,1150 @@
+11/28 22:35:35 -> Express server listening on port 80
+11/28 22:55:52 -> Express server listening on port 80
+11/28 22:56:39 -> Express server listening on port 80
+11/28 22:57:30 -> Express server listening on port 80
+11/28 22:58:47 -> Express server listening on port 80
+11/28 22:59:59 -> Express server listening on port 80
+11/28 22:57:03 -> Express server listening on port 80
+11/28 22:57:33 -> Express server listening on port 80
+11/28 22:57:55 -> Express server listening on port 80
+11/28 22:57:56 -> * init first user
+11/28 22:58:24 -> Express server listening on port 80
+11/28 23:03:55 -> Express server listening on port 80
+11/28 23:04:01 -> auth user -> undefined / name -> undefined undefined
+11/28 23:04:52 -> Express server listening on port 80
+11/28 23:05:34 -> Express server listening on port 80
+11/28 23:05:36 -> star
+11/28 23:06:22 -> Express server listening on port 80
+11/28 23:06:24 -> star
+11/28 23:06:38 -> star
+11/28 23:06:38 -> [object Object]
+11/28 23:06:38 -> auth user -> undefined / name -> undefined undefined
+11/28 23:06:57 -> Express server listening on port 80
+11/28 23:07:04 -> star
+11/28 23:07:18 -> star
+2/17 23:04:18 ->  [object Object]
+11/28 23:07:18 -> auth user -> undefined / name -> undefined undefined
+11/28 23:08:02 -> Express server listening on port 80
+11/28 23:08:10 -> star
+2/17 23:05:10 ->  [object Object]
+11/28 23:08:10 -> auth user -> elyas
+11/28 23:08:59 -> Express server listening on port 80
+11/28 23:09:28 -> Express server listening on port 80
+11/28 23:09:35 -> star
+2/17 23:06:35 ->  [object Object]
+11/28 23:09:35 -> auth user -> elyas
+11/28 23:09:51 -> Express server listening on port 80
+11/28 23:10:02 -> Express server listening on port 80
+11/28 23:10:16 -> auth user -> elyas
+11/28 23:10:32 -> Express server listening on port 80
+11/28 23:11:15 -> Express server listening on port 80
+11/28 23:11:32 -> auth user -> elyas
+11/28 23:12:36 -> Express server listening on port 80
+11/28 23:12:41 -> undefined
+11/28 23:12:46 -> auth user -> elyas
+11/28 23:13:29 -> Express server listening on port 80
+11/28 23:13:32 -> undefined
+11/28 23:13:37 -> auth user -> elyas
+11/28 23:14:49 -> Express server listening on port 80
+11/28 23:17:14 -> undefined
+11/28 23:17:21 -> auth user -> elyas
+11/28 23:18:06 -> Express server listening on port 80
+11/28 23:18:29 -> Express server listening on port 80
+11/28 23:18:37 -> auth user -> elyas
+11/28 23:19:02 -> Express server listening on port 80
+11/28 23:19:20 -> { _id: 54e3963cb2da405b1ac60ae7,
+  password: '$2a$10$pDqMTAtEeS.LbWGu17c1fOyLPnrPwhKVLmYmxEk9yaqR15oxMXFRO' }
+11/28 23:19:20 -> auth user -> elyas
+11/28 23:19:59 -> Express server listening on port 80
+11/28 23:20:09 -> { _id: 54e3963cb2da405b1ac60ae7,
+  username: 'elyas',
+  password: '$2a$10$pDqMTAtEeS.LbWGu17c1fOyLPnrPwhKVLmYmxEk9yaqR15oxMXFRO' }
+11/28 23:20:09 -> auth user -> elyas
+11/28 23:21:31 -> Express server listening on port 80
+11/28 23:21:32 -> innnn
+11/28 23:21:34 -> innnn
+11/28 23:21:34 -> innnn
+11/28 23:21:42 -> acm
+11/28 23:21:55 -> Express server listening on port 80
+11/28 23:22:02 -> { _id: 54e3963cb2da405b1ac60ae7,
+  username: 'elyas',
+  password: '$2a$10$pDqMTAtEeS.LbWGu17c1fOyLPnrPwhKVLmYmxEk9yaqR15oxMXFRO' }
+11/28 23:22:02 -> auth user -> elyas
+11/28 23:23:07 -> Express server listening on port 80
+11/28 23:23:53 -> Express server listening on port 80
+11/28 23:24:11 -> { _id: 54e3963cb2da405b1ac60ae7,
+  username: 'elyas',
+  password: '$2a$10$pDqMTAtEeS.LbWGu17c1fOyLPnrPwhKVLmYmxEk9yaqR15oxMXFRO' }
+11/28 23:24:11 -> auth user -> elyas
+11/28 23:40:04 -> Express server listening on port 80
+11/28 23:40:22 -> { _id: 54e3963cb2da405b1ac60ae7,
+  username: 'elyas',
+  password: '$2a$10$pDqMTAtEeS.LbWGu17c1fOyLPnrPwhKVLmYmxEk9yaqR15oxMXFRO' }
+11/28 23:40:22 -> auth user -> elyas
+11/28 23:41:03 -> Express server listening on port 80
+11/28 23:41:10 -> try for auth -> e
+11/28 23:41:15 -> { _id: 54e3963cb2da405b1ac60ae7,
+  username: 'elyas',
+  password: '$2a$10$pDqMTAtEeS.LbWGu17c1fOyLPnrPwhKVLmYmxEk9yaqR15oxMXFRO' }
+11/28 23:41:15 -> auth user -> elyas
+11/28 23:41:15 -> acm
+11/28 23:41:41 -> Express server listening on port 80
+11/28 23:43:33 -> Express server listening on port 80
+11/28 23:43:55 -> Express server listening on port 80
+11/28 23:45:18 -> Express server listening on port 80
+11/28 23:48:02 -> Express server listening on port 80
+11/28 23:48:54 -> Express server listening on port 80
+11/28 23:49:31 -> Express server listening on port 80
+11/29 00:25:40 -> Express server listening on port 80
+11/29 00:27:12 -> Express server listening on port 80
+11/29 00:28:26 -> Express server listening on port 80
+11/29 00:29:04 -> Express server listening on port 80
+11/29 00:30:31 -> Express server listening on port 80
+11/29 00:32:40 -> acm
+11/29 00:33:56 -> acm
+11/29 00:34:46 -> Express server listening on port 80
+11/29 00:34:47 -> acm
+11/29 00:34:55 -> acm
+11/29 00:36:09 -> Express server listening on port 80
+11/29 00:37:04 -> { _id: 54e3963cb2da405b1ac60ae7,
+  username: 'elyas',
+  password: '$2a$10$pDqMTAtEeS.LbWGu17c1fOyLPnrPwhKVLmYmxEk9yaqR15oxMXFRO' }
+11/29 00:37:04 -> auth user -> elyas
+11/29 00:37:33 -> Express server listening on port 80
+11/29 00:38:13 -> { _id: 54e3963cb2da405b1ac60ae7,
+  username: 'elyas',
+  password: '$2a$10$pDqMTAtEeS.LbWGu17c1fOyLPnrPwhKVLmYmxEk9yaqR15oxMXFRO' }
+11/29 00:38:13 -> auth user -> elyas
+11/29 00:38:32 -> { _id: 54e3963cb2da405b1ac60ae7,
+  username: 'elyas',
+  password: '$2a$10$pDqMTAtEeS.LbWGu17c1fOyLPnrPwhKVLmYmxEk9yaqR15oxMXFRO' }
+11/29 00:38:32 -> auth user -> elyas
+11/29 00:40:00 -> Express server listening on port 80
+11/29 00:48:57 -> Express server listening on port 80
+11/29 00:49:08 -> Express server listening on port 80
+11/29 00:49:08 -> * init elyas user
+11/29 00:49:08 -> * init aminian user
+11/29 00:49:08 -> * init eslami user
+11/29 00:49:49 -> { _id: 54e3af98c022e6bc53465b07,
+  username: 'eslami',
+  password: '$2a$10$GkxHJslDGT194sAlFRKNS.OJW3gdo0kTyx/MntVvt.6i7fX.yMUVe' }
+11/29 00:49:49 -> auth user -> eslami
+11/29 00:52:52 -> Express server listening on port 80
+11/29 00:52:59 -> admin add new member -> eslami
+11/29 00:53:27 -> Express server listening on port 80
+11/29 00:53:42 -> Express server listening on port 80
+11/29 00:54:28 -> Express server listening on port 80
+11/29 00:54:41 -> admin add new member -> eslami
+11/29 00:55:30 -> Express server listening on port 80
+11/29 00:56:20 -> admin add new member -> eslami
+11/29 00:58:25 -> Express server listening on port 80
+11/29 00:58:37 -> admin add new member -> eslami
+11/29 00:58:10 -> Express server listening on port 80
+11/29 00:58:19 -> admin add new member -> eslami
+11/29 00:58:51 -> Express server listening on port 80
+11/29 00:58:54 -> admin add new member -> eslami
+11/29 00:59:05 -> admin add new member -> eslami
+11/29 01:03:34 -> auth user -> elyas
+11/29 10:26:29 -> Express server listening on port 80
+11/29 10:26:41 -> auth user -> elyas
+12/3 21:18:26 -> Express server listening on port 80
+12/3 21:18:26 -> * init eslami user
+12/3 21:18:26 -> * init elyas user
+12/3 21:18:26 -> * init aminian user
+12/3 21:19:09 -> auth user -> elyas
+12/3 21:20:24 -> auth user -> elyas
+12/3 21:24:28 -> Express server listening on port 80
+12/3 21:29:40 -> auth user -> elyas
+12/3 21:37:34 -> Express server listening on port 80
+12/3 22:35:08 -> auth user -> elyas
+12/3 22:58:03 -> auth user -> elyas
+12/3 23:03:44 -> admin add new member -> elyas
+12/3 23:08:34 -> Express server listening on port 80
+12/3 23:08:59 -> admin add new member -> elyas
+12/3 23:09:58 -> auth user -> elyas
+12/3 23:13:43 -> auth user -> elyas
+12/4 01:30:24 -> Express server listening on port 80
+12/4 01:30:33 -> auth user -> elyas
+12/4 16:27:41 -> Express server listening on port 80
+12/4 16:27:52 -> auth user -> elyas
+12/4 20:50:46 -> Express server listening on port 80
+12/4 20:51:08 -> try for auth -> elyas
+12/4 20:51:28 -> Express server listening on port 80
+12/4 20:51:34 -> auth user -> elyas
+12/4 20:51:41 -> try for auth -> elyas
+12/4 20:52:29 -> Express server listening on port 80
+12/4 20:52:37 -> Express server listening on port 80
+12/4 21:15:08 -> Express server listening on port 80
+12/4 21:15:38 -> Express server listening on port 80
+12/4 21:17:11 -> Express server listening on port 80
+12/4 21:17:55 -> Express server listening on port 80
+12/4 21:18:16 -> Express server listening on port 80
+12/4 21:18:55 -> Express server listening on port 80
+12/4 21:19:01 -> auth user -> elyas
+2/23 21:16:07 ->  
+12/4 21:20:27 -> Express server listening on port 80
+2/23 21:17:29 ->  { phone_number: '09157109382' },{ phone_number: '09153826858' },{ phone_number: '09156473068' },{ phone_number: '09356096480' },{ phone_number: '09389106570' },{ phone_number: '09156193958' },{ phone_number: '09381382718' },{ phone_number: '09105787309' },{ phone_number: '09353815490' },{ phone_number: '09156855881' },{ phone_number: '09359483675' },{ phone_number: '09302522568' },{ phone_number: '09153864620' },{ phone_number: '09379765270' },{ phone_number: '09153222923' },{ phone_number: '09156489714' },{ phone_number: '09361898181' },{ phone_number: '09369700414' },{ phone_number: '' },{ phone_number: '' },{ phone_number: '09156487653' },{ phone_number: '09151130181' },{ phone_number: '' },{ phone_number: '09156229320' },{ phone_number: '09398568009' },{ phone_number: '09366951466' },{ phone_number: '09357083912' },{ phone_number: '09300913103' },{ phone_number: '09367392070' },{ phone_number: '09384050176' },{ phone_number: '09104883895' },{ phone_number: '09155594274' },{ phone_number: '' },{ phone_number: '09302021980' },{ phone_number: '' },{ phone_number: '09366877798' },{ phone_number: '09375171110' },{ phone_number: '09156621593' },{ phone_number: '09153088213' },{ phone_number: '09158955356' },{ phone_number: '09158140062' },{ phone_number: '' },{ phone_number: '09158585286' },{ phone_number: '09156312414' },{ phone_number: '09158804010' },{ phone_number: '09399155930' },{ phone_number: '09151866635' },{ phone_number: '09371241656' },{ phone_number: '09156535622' },{ phone_number: '09368059141' },{ phone_number: '09371315604' },{ phone_number: '09151590308' },{ phone_number: '09368017259' },{ phone_number: '09154133976' },{ phone_number: '09379080321' },{ phone_number: '09358482595' },{ phone_number: '09359266500' },{ phone_number: '09307797180' },{ phone_number: '09157047663' },{ phone_number: '09153022581' },{ phone_number: '09394825100' },{ phone_number: '09354077606' },{ phone_number: '' },{ phone_number: '09156566870' },{ phone_number: '09159223468' },{ phone_number: '09156573794' },{ phone_number: '09159187059' },{ phone_number: '' },{ phone_number: '09109873163' },{ phone_number: '09364372994' },{ phone_number: '09155146859' },{ phone_number: '09374676396' },{ phone_number: '' },{ phone_number: '09156156778' },{ phone_number: '09156491969' },{ phone_number: '09152445162' },{ phone_number: '09156532464' },{ phone_number: '09156595925' },{ phone_number: '09155582380' },{ phone_number: '09151031903' },{ phone_number: '09309378777' },{ phone_number: '09372044427' },{ phone_number: '09366023493' },{ phone_number: '09155249492' },{ phone_number: '09362505470' },{ phone_number: '09153171590' },{ phone_number: '09154460117' },{ phone_number: '09157185173' },{ phone_number: '09353621135' },{ phone_number: '09158018592' },{ phone_number: '09357952232' },{ phone_number: '09305110144' },{ phone_number: '09356951330' },{ phone_number: '09151201697' },{ phone_number: '09156966570' }
+12/4 21:22:22 -> Express server listening on port 80
+12/4 21:23:32 -> Express server listening on port 80
+12/4 21:24:34 -> Express server listening on port 80
+12/4 21:25:57 -> Express server listening on port 80
+12/4 22:21:20 -> Express server listening on port 80
+12/4 22:21:27 -> auth user -> elyas
+12/4 22:22:11 -> Express server listening on port 80
+12/4 22:22:12 -> admin get a phone_number backup
+12/4 22:22:34 -> Express server listening on port 80
+12/4 22:22:35 -> admin get a phone_number backup
+12/4 22:22:36 -> 95
+12/4 22:22:53 -> Express server listening on port 80
+12/4 22:22:54 -> admin get a phone_number backup
+12/4 22:22:54 -> 86
+12/4 22:24:05 -> Express server listening on port 80
+12/4 22:26:01 -> admin get a phone_number backup
+12/4 22:27:25 -> Express server listening on port 80
+12/4 22:27:26 -> admin get a phone_number backup
+12/4 22:27:59 -> auth user -> elyas
+12/4 22:28:02 -> admin get a phone_number backup
+12/4 22:28:16 -> Express server listening on port 80
+12/4 22:28:20 -> admin get a phone_number backup
+12/4 22:28:24 -> admin get a phone_number backup
+12/4 22:28:36 -> Express server listening on port 80
+12/4 22:28:37 -> admin get a phone_number backup
+12/4 22:30:49 -> admin get a phone_number backup
+12/4 22:31:38 -> admin get a phone_number backup
+12/4 22:31:55 -> admin add new member -> elyas
+12/4 23:27:44 -> admin get a phone_number backup
+12/4 23:28:57 -> admin get a phone_number backup
+12/4 23:32:38 -> admin get a phone_number backup
+12/12 15:51:26 -> Express server listening on port 80
+12/12 16:49:22 -> Express server listening on port 80
+12/12 16:58:26 -> Express server listening on port 80
+12/12 20:58:25 -> Express server listening on port 80
+12/12 20:58:42 -> Express server listening on port 80
+12/12 20:59:08 -> Express server listening on port 80
+12/12 20:58:06 -> Express server listening on port 80
+12/12 21:10:50 -> Express server listening on port 80
+12/12 21:15:20 -> Express server listening on port 80
+12/12 21:18:56 -> Express server listening on port 80
+3/3 21:16:08 ->  [object Object]
+12/12 21:20:07 -> Express server listening on port 80
+12/12 21:21:29 -> Express server listening on port 80
+12/12 21:22:55 -> Express server listening on port 80
+3/3 21:20:13 ->  [object Object]
+12/12 21:24:05 -> Express server listening on port 80
+3/3 21:55:55 ->  [object Object]
+12/12 21:59:19 -> Express server listening on port 80
+3/3 21:56:19 ->  [object Object]
+3/3 21:56:24 ->  [object Object]
+3/3 21:58:36 ->  [object Object]
+12/12 21:59:43 -> Express server listening on port 80
+12/12 22:04:32 -> Express server listening on port 80
+12/12 22:08:32 -> Express server listening on port 80
+12/12 22:24:04 -> Express server listening on port 80
+3/3 22:21:09 ->  [object Object]
+12/12 22:33:50 -> Express server listening on port 80
+3/3 22:30:59 ->  [object Object]
+3/3 22:31:06 ->  [object Object]
+12/12 22:34:46 -> Express server listening on port 80
+12/12 22:34:50 -> CastError: Cast to number failed for value "iug" at path "_1_student_number"
+12/12 22:35:40 -> Express server listening on port 80
+12/12 22:38:41 -> Express server listening on port 80
+12/12 22:38:53 -> Express server listening on port 80
+12/12 22:40:07 -> Express server listening on port 80
+12/12 23:10:01 -> Express server listening on port 80
+12/12 23:12:39 -> Express server listening on port 80
+12/12 23:13:31 -> Express server listening on port 80
+12/12 23:14:08 -> Express server listening on port 80
+12/13 09:06:08 -> Express server listening on port 80
+12/13 09:24:33 -> Express server listening on port 80
+12/13 23:19:46 -> Express server listening on port 80
+12/13 23:22:19 -> Express server listening on port 80
+12/13 23:23:33 -> new sign up!
+12/13 23:25:37 -> new sign up!
+12/19 19:15:03 -> Express server listening on port 3030
+3/10 19:12:11 ->  [object Object]
+3/10 19:12:29 ->  [object Object]
+12/19 19:15:54 -> Express server listening on port 3030
+3/10 19:12:55 ->  [object Object]
+3/10 19:13:47 ->  [object Object]
+3/10 19:14:03 ->  [object Object]
+3/10 19:14:09 ->  [object Object]
+3/10 19:14:15 ->  [object Object]
+12/19 19:18:57 -> Express server listening on port 3030
+3/10 19:15:57 ->  [object Object]
+12/19 19:19:27 -> Express server listening on port 3030
+3/10 19:18:20 ->  [object Object]
+3/10 19:18:33 ->  [object Object]
+12/19 19:22:02 -> Express server listening on port 3030
+3/10 19:19:04 ->  { group_name: '/dev/null' }
+12/19 19:22:20 -> new sign up!
+3/10 19:19:22 ->  { group_name: '/dev/null' },{ group_name: 'iugiugiug' }
+12/19 19:22:38 -> new sign up!
+3/10 19:19:40 ->  { group_name: '/dev/null' },{ group_name: 'iugiugiug' },{ group_name: 'pojpoj' }
+3/10 19:19:59 ->  { group_name: '/dev/null' },{ group_name: 'iugiugiug' },{ group_name: 'pojpoj' }
+3/10 19:27:56 ->  { group_name: '/dev/null' },{ group_name: 'iugiugiug' },{ group_name: 'pojpoj' }
+3/10 19:28:26 ->  { group_name: '/dev/null' },{ group_name: 'iugiugiug' },{ group_name: 'pojpoj' }
+12/23 13:45:46 -> Express server listening on port 3030
+3/14 13:42:57 ->  { group_name: '/dev/null' },{ group_name: 'iugiugiug' },{ group_name: 'pojpoj' }
+3/14 13:43:14 ->  { group_name: '/dev/null' },{ group_name: 'iugiugiug' },{ group_name: 'pojpoj' }
+12/23 17:12:04 -> Express server listening on port 3030
+3/14 17:09:25 ->  { group_name: '/dev/null' },{ group_name: 'iugiugiug' },{ group_name: 'pojpoj' }
+3/14 17:09:47 ->  { group_name: '/dev/null' },{ group_name: 'iugiugiug' },{ group_name: 'pojpoj' }
+3/14 17:10:14 ->  { group_name: '/dev/null' },{ group_name: 'iugiugiug' },{ group_name: 'pojpoj' }
+12/23 17:13:36 -> new sign up!
+3/14 17:10:38 ->  { group_name: '/dev/null' },{ group_name: 'iugiugiug' },{ group_name: 'pojpoj' },{ group_name: 'kmkmkmkm' }
+12/23 21:13:47 -> Express server listening on port 3030
+3/14 21:10:56 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+2/15 09:22:39 -> Express server listening on port 3030
+5/5 9:19:44 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+2/15 09:23:40 -> Express server listening on port 3030
+5/5 9:23:19 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:24:31 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:24:59 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:25:08 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:25:35 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:27:07 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:27:16 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:28:11 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:28:30 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:29:07 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:29:18 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:29:29 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:29:55 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:30:08 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:30:32 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+5/5 9:31:03 ->  { group_name: '#/dev/null' },{ group_name: 'Return0' },{ group_name: 'power freez' },{ group_name: 'Black Eyed Peas' },{ group_name: 'Shift+Delete' },{ group_name: 'khawarizmi\'s descendants' },{ group_name: 'programmers' },{ group_name: 'Gts Group' },{ group_name: 'Monsters' },{ group_name: 'Triangle' }
+2/15 09:48:32 -> Express server listening on port 3030
+2/15 09:49:52 -> Express server listening on port 3030
+2/15 09:51:03 -> Express server listening on port 3030
+2/15 09:51:52 -> Express server listening on port 3030
+2/15 09:51:54 -> Express server listening on port 3030
+2/15 09:52:28 -> Express server listening on port 3030
+2/15 09:52:46 -> Express server listening on port 3030
+2/15 09:55:24 -> Express server listening on port 3030
+2/15 09:59:37 -> Express server listening on port 3030
+2/15 09:57:28 -> Express server listening on port 3030
+2/15 09:57:31 -> Express server listening on port 3030
+2/15 09:57:34 -> Express server listening on port 3030
+2/15 09:57:39 -> Express server listening on port 3030
+2/15 09:59:11 -> Express server listening on port 3030
+2/15 10:03:55 -> Express server listening on port 3030
+2/15 10:04:00 -> Express server listening on port 3030
+2/15 10:09:27 -> Express server listening on port 3030
+2/15 10:09:31 -> Express server listening on port 3030
+2/15 10:09:38 -> Express server listening on port 3030
+2/15 10:09:44 -> Express server listening on port 3030
+2/15 10:09:58 -> Express server listening on port 3030
+2/15 10:10:04 -> Express server listening on port 3030
+2/15 10:10:13 -> Express server listening on port 3030
+2/15 10:10:19 -> Express server listening on port 3030
+2/15 10:11:42 -> Express server listening on port 3030
+5/5 10:08:44 ->  [object Object]
+2/15 10:11:58 -> Express server listening on port 3030
+5/5 10:09:00 ->  [object Object]
+2/15 10:13:58 -> Express server listening on port 3030
+2/15 10:14:12 -> Express server listening on port 3030
+5/5 10:11:30 ->  [object Object]
+2/15 10:15:08 -> Express server listening on port 3030
+5/5 10:12:17 ->  [object Object]
+2/15 10:15:46 -> Express server listening on port 3030
+2/15 10:15:55 -> Express server listening on port 3030
+2/15 10:16:22 -> Express server listening on port 3030
+2/15 10:16:48 -> Express server listening on port 3030
+2/15 10:17:17 -> Express server listening on port 3030
+5/5 10:14:19 ->  [object Object]
+5/5 10:14:42 ->  [object Object]
+5/5 10:14:46 ->  [object Object]
+5/5 10:15:58 ->  [object Object]
+5/5 10:16:07 ->  [object Object]
+2/15 10:21:55 -> Express server listening on port 3030
+2/15 10:22:15 -> Express server listening on port 3030
+2/15 10:22:29 -> Express server listening on port 3030
+2/15 10:22:36 -> Express server listening on port 3030
+2/15 10:24:47 -> Express server listening on port 3030
+2/15 10:30:35 -> Express server listening on port 3030
+2/15 10:46:48 -> Express server listening on port 3030
+2/15 10:53:09 -> Express server listening on port 3030
+2/15 10:53:32 -> Express server listening on port 3030
+2/15 10:54:01 -> recapcha not success 
+5/5 10:51:01 ->  [object Object]
+2/15 10:54:41 -> Express server listening on port 3030
+5/5 10:51:47 ->  [object Object]
+2/15 10:54:47 -> recapcha not success 
+5/5 10:51:47 ->  [object Object]
+2/15 10:55:48 -> Express server listening on port 3030
+2/15 10:55:54 -> Express server listening on port 3030
+5/5 10:53:15 ->  [object Object]
+5/5 10:53:18 ->  [object Object]
+2/15 10:56:18 -> new users add -> 545454
+5/5 10:53:31 ->  [object Object]
+5/5 10:53:33 ->  [object Object]
+2/15 10:56:33 -> recapcha not success 
+2/15 10:58:04 -> Express server listening on port 3030
+2/15 10:58:32 -> Express server listening on port 3030
+2/15 10:58:43 -> Express server listening on port 3030
+2/15 10:58:44 -> Express server listening on port 3030
+5/5 11:02:00 ->  [object Object]
+5/5 11:02:02 ->  [object Object]
+2/15 11:05:02 -> new users add -> 5454545454
+5/5 11:02:20 ->  [object Object]
+5/5 11:02:23 ->  [object Object]
+2/15 11:05:23 -> recapcha not success 
+5/5 11:02:30 ->  [object Object]
+5/5 11:02:34 ->  [object Object]
+2/15 11:05:34 -> recapcha not success 
+5/5 11:02:47 ->  [object Object]
+5/5 11:02:49 ->  [object Object]
+2/15 11:05:49 -> new users add -> 21212121112
+2/15 11:17:33 -> Express server listening on port 3030
+5/5 11:14:41 ->  [object Object]
+5/5 11:14:43 ->  [object Object]
+2/15 11:17:43 -> recapcha not success 
+5/5 11:15:04 ->  [object Object]
+5/5 11:15:06 ->  [object Object]
+5/5 11:15:28 ->  [object Object]
+5/5 11:15:30 ->  [object Object]
+2/15 11:18:30 -> recapcha not success 
+5/5 11:15:51 ->  [object Object]
+5/5 11:15:53 ->  [object Object]
+2/15 11:18:53 -> new users add -> 2121212121
+2/15 11:23:24 -> Express server listening on port 3030
+5/5 11:21:02 ->  [object Object]
+5/5 11:21:04 ->  [object Object]
+2/15 11:24:04 -> recapcha not success 
+5/5 11:25:18 ->  [object Object]
+5/5 11:25:20 ->  [object Object]
+2/15 11:28:59 -> Express server listening on port 3030
+2/15 11:29:15 -> Express server listening on port 3030
+2/15 11:29:17 -> Express server listening on port 3030
+2/15 11:29:54 -> Express server listening on port 3030
+2/15 11:33:54 -> Express server listening on port 3030
+2/15 11:33:58 -> Express server listening on port 3030
+2/15 11:49:10 -> Express server listening on port 3030
+2/15 11:49:14 -> Express server listening on port 3030
+2/15 11:50:22 -> Express server listening on port 3030
+2/15 11:57:05 -> Express server listening on port 3030
+2/15 11:57:45 -> new users add -> elyas75
+2/15 11:59:26 -> Express server listening on port 3030
+2/15 11:59:43 -> new users add -> 5454545454545
+2/15 11:59:52 -> Express server listening on port 3030
+2/15 11:58:17 -> Express server listening on port 3030
+2/15 13:59:01 -> Express server listening on port 3030
+2/15 14:03:12 -> Express server listening on port 3030
+2/15 14:03:43 -> Express server listening on port 3030
+2/15 14:07:25 -> Express server listening on port 3030
+2/15 14:07:50 -> Express server listening on port 3030
+2/16 00:31:27 -> Express server listening on port 3030
+2/16 00:40:57 -> Express server listening on port 3030
+2/16 00:43:27 -> Express server listening on port 3030
+2/16 00:50:15 -> Express server listening on port 3030
+2/16 00:50:20 -> Express server listening on port 3030
+2/16 01:03:20 -> Express server listening on port 3030
+2/16 01:04:03 -> Express server listening on port 3030
+2/16 01:04:22 -> Express server listening on port 3030
+2/16 01:04:43 -> Express server listening on port 3030
+2/16 01:04:49 -> Express server listening on port 3030
+2/16 01:04:49 -> get /scoreboead
+2/16 01:05:56 -> Express server listening on port 3030
+2/16 01:06:30 -> get /scoreboead
+2/16 01:06:45 -> get /scoreboead
+2/16 01:07:06 -> get /scoreboead
+2/16 01:09:32 -> get /scoreboead
+2/16 01:09:58 -> get /scoreboead
+2/16 01:10:14 -> get /scoreboead
+2/16 01:15:39 -> get /scoreboead
+2/16 01:15:43 -> get /scoreboead
+2/16 01:16:05 -> get /scoreboead
+2/16 01:19:14 -> get /scoreboead
+2/16 01:19:37 -> get /scoreboead
+2/16 01:19:56 -> Express server listening on port 3030
+2/16 01:20:00 -> get /scoreboead
+2/16 01:21:27 -> get /scoreboead
+2/16 01:21:28 -> get /scoreboead
+2/16 01:22:44 -> Express server listening on port 3030
+2/16 01:22:58 -> Express server listening on port 3030
+2/16 01:23:12 -> Express server listening on port 3030
+2/16 01:23:13 -> Express server listening on port 3030
+2/16 01:23:31 -> Express server listening on port 3030
+2/16 01:24:21 -> Express server listening on port 3030
+2/16 01:24:25 -> get /scoreboead
+2/16 01:25:26 -> new users add -> ali2222
+2/16 01:25:29 -> get /scoreboead
+2/16 01:26:20 -> get /scoreboead
+2/16 01:28:53 -> Express server listening on port 3030
+2/16 01:29:01 -> Express server listening on port 3030
+2/16 01:29:05 -> Express server listening on port 3030
+2/16 01:29:10 -> Express server listening on port 3030
+2/16 01:29:11 -> get /scoreboead
+2/16 01:29:58 -> new users add -> elyas7444
+2/16 01:30:01 -> get /scoreboead
+2/16 01:30:22 -> get /scoreboead
+2/16 01:31:19 -> Express server listening on port 3030
+2/16 01:31:23 -> NaN
+2/16 01:31:23 -> get /scoreboead
+2/16 01:31:46 -> Express server listening on port 3030
+2/16 01:32:35 -> get /scoreboead
+2/16 01:32:37 -> get /scoreboead
+2/16 01:32:38 -> get /scoreboead
+2/16 01:32:53 -> get /scoreboead
+2/16 01:34:18 -> get /scoreboead
+2/16 01:34:37 -> get /scoreboead
+2/16 01:34:38 -> get /scoreboead
+2/16 01:34:38 -> get /scoreboead
+2/16 01:34:54 -> get /scoreboead
+2/16 01:34:55 -> get /scoreboead
+2/16 01:34:55 -> get /scoreboead
+2/16 01:34:59 -> get /scoreboead
+2/16 01:34:59 -> get /scoreboead
+2/16 01:34:59 -> get /scoreboead
+2/16 01:35:00 -> get /scoreboead
+2/16 01:35:00 -> get /scoreboead
+2/16 01:35:18 -> get /scoreboead
+2/16 01:35:19 -> get /scoreboead
+2/16 01:35:19 -> get /scoreboead
+2/16 01:35:19 -> get /scoreboead
+2/16 01:35:34 -> get /scoreboead
+2/16 01:35:35 -> get /scoreboead
+2/16 01:35:35 -> get /scoreboead
+2/16 01:35:38 -> Express server listening on port 3030
+2/16 01:35:41 -> get /scoreboead
+2/16 01:37:25 -> get /scoreboead
+2/16 01:37:26 -> get /scoreboead
+2/16 01:37:26 -> get /scoreboead
+2/16 01:37:26 -> get /scoreboead
+2/16 01:37:26 -> get /scoreboead
+2/16 01:37:26 -> get /scoreboead
+2/16 01:37:46 -> get /scoreboead
+2/16 01:37:54 -> get /scoreboead
+2/16 01:37:54 -> get /scoreboead
+2/16 01:37:54 -> get /scoreboead
+2/16 01:38:34 -> get /scoreboead
+2/16 01:39:14 -> get /scoreboead
+2/16 01:39:15 -> get /scoreboead
+2/16 01:45:33 -> get /scoreboead
+2/16 01:51:47 -> Express server listening on port 3030
+2/16 01:54:58 -> get /scoreboead
+2/16 01:56:26 -> Express server listening on port 3030
+2/16 01:58:36 -> Express server listening on port 3030
+2/16 01:58:45 -> Express server listening on port 3030
+2/16 01:59:40 -> 1442
+2/16 01:59:40 -> Express server listening on port 3030
+2/16 01:59:51 -> 1412
+2/16 01:59:51 -> Express server listening on port 3030
+2/16 01:59:56 -> 1352
+2/16 01:59:57 -> Express server listening on port 3030
+2/16 02:03:22 -> 1322
+2/16 02:03:22 -> Express server listening on port 3030
+2/16 02:03:27 -> 1142
+2/16 02:03:27 -> Express server listening on port 3030
+2/16 02:03:49 -> 601
+2/16 02:03:49 -> Express server listening on port 3030
+2/16 02:03:55 -> 751
+2/16 02:03:55 -> Express server listening on port 3030
+2/16 02:03:59 -> 871
+2/16 02:03:59 -> Express server listening on port 3030
+2/16 02:04:05 -> 1202
+2/16 02:04:05 -> Express server listening on port 3030
+2/16 02:06:16 -> 803
+2/16 02:06:16 -> Express server listening on port 3030
+2/16 02:06:26 -> 783
+2/16 02:06:26 -> Express server listening on port 3030
+2/16 02:06:32 -> 1600
+2/16 02:06:32 -> Express server listening on port 3030
+2/16 02:06:36 -> 500
+2/16 02:06:36 -> Express server listening on port 3030
+2/16 02:06:40 -> 1960
+2/16 02:06:40 -> Express server listening on port 3030
+2/16 02:06:46 -> 1996
+2/16 02:06:46 -> Express server listening on port 3030
+2/16 02:06:50 -> 1499
+2/16 02:06:50 -> Express server listening on port 3030
+2/16 02:06:55 -> -1485
+2/16 02:06:56 -> Express server listening on port 3030
+2/16 02:07:00 -> 505
+2/16 02:07:00 -> Express server listening on port 3030
+2/16 02:07:06 -> 1996
+2/16 02:07:06 -> Express server listening on port 3030
+2/16 02:09:18 -> -Infinity
+2/16 02:09:18 -> Express server listening on port 3030
+2/16 02:09:48 -> 1996
+2/16 02:09:48 -> Express server listening on port 3030
+2/16 02:15:09 -> 1996
+2/16 02:15:09 -> Express server listening on port 3030
+2/16 02:15:20 -> 1499
+2/16 02:15:20 -> Express server listening on port 3030
+2/16 02:15:27 -> 1469
+2/16 02:15:28 -> Express server listening on port 3030
+2/16 02:15:32 -> 1442
+2/16 02:15:32 -> Express server listening on port 3030
+2/16 02:16:50 -> 532
+2/16 02:16:51 -> Express server listening on port 3030
+2/16 02:17:22 -> 476
+2/16 02:17:22 -> Express server listening on port 3030
+2/16 02:18:34 -> 475.9425515190604
+2/16 02:18:34 -> 476
+2/16 02:18:34 -> Express server listening on port 3030
+2/16 02:18:40 -> 475.9425515190604
+2/16 02:18:40 -> 475
+2/16 02:18:40 -> Express server listening on port 3030
+2/16 02:18:51 -> 376.32666864297795
+2/16 02:18:51 -> 376
+2/16 02:18:51 -> Express server listening on port 3030
+2/16 02:18:55 -> 376.32666864297795
+2/16 02:18:55 -> 376
+2/16 02:18:55 -> Express server listening on port 3030
+2/16 02:18:59 -> 138.3553928834478
+2/16 02:18:59 -> 138
+2/16 02:18:59 -> Express server listening on port 3030
+2/16 02:19:04 -> 475.9425515190604
+2/16 02:19:04 -> 475
+2/16 02:19:04 -> Express server listening on port 3030
+2/16 02:19:09 -> 535.7120812447098
+2/16 02:19:09 -> 535
+2/16 02:19:09 -> Express server listening on port 3030
+2/16 02:19:15 -> 1500.3999999999999
+2/16 02:19:15 -> 1500
+2/16 02:19:15 -> Express server listening on port 3030
+2/16 02:22:38 -> 1500
+2/16 02:22:38 -> Express server listening on port 3030
+2/16 09:17:17 -> 1500
+2/16 09:17:18 -> Express server listening on port 3030
+2/16 09:17:19 -> get /scoreboead
+2/16 09:17:29 -> get /scoreboead
+2/16 09:17:40 -> get /scoreboead
+2/16 14:57:36 -> 1500
+2/16 14:57:37 -> Express server listening on port 3030
+2/16 14:57:56 -> get /scoreboead
+2/16 14:58:44 -> get /scoreboead
+2/16 23:39:37 -> 1500
+2/16 23:39:37 -> Express server listening on port 3030
+2/16 23:39:45 -> get /scoreboead
+2/16 23:43:13 -> get /scoreboead
+2/16 23:43:37 -> get /scoreboead
+2/16 23:43:38 -> get /scoreboead
+2/16 23:43:56 -> get /scoreboead
+2/16 23:45:20 -> get /scoreboead
+2/17 19:31:25 -> 1500
+2/17 19:31:25 -> Express server listening on port 3030
+2/17 19:34:17 -> get /scoreboead
+2/18 10:26:30 -> 1500
+2/18 10:26:31 -> Express server listening on port 3030
+2/18 10:26:58 -> 1346
+2/18 10:26:58 -> Express server listening on port 3030
+2/18 10:27:18 -> 1438
+2/18 10:27:18 -> Express server listening on port 3030
+2/18 10:27:35 -> 1434
+2/18 10:27:36 -> Express server listening on port 3030
+2/18 10:27:56 -> 1394
+2/18 10:27:56 -> Express server listening on port 3030
+2/18 10:28:38 -> 1628
+2/18 10:28:38 -> Express server listening on port 3030
+2/18 10:29:26 -> 1628
+2/18 10:29:26 -> Express server listening on port 3030
+2/18 10:30:08 -> 2000
+2/18 10:30:08 -> Express server listening on port 3030
+2/18 10:30:20 -> 1700
+2/18 10:30:20 -> Express server listening on port 3030
+2/18 10:34:19 -> 1700
+2/18 10:34:19 -> Express server listening on port 3030
+2/18 10:34:45 -> 1700
+2/18 10:34:45 -> Express server listening on port 3030
+2/18 11:05:02 -> 1700
+2/18 11:05:02 -> Express server listening on port 3030
+2/18 11:05:08 -> get /scoreboead
+2/18 11:06:37 -> get /scoreboead
+2/18 11:06:40 -> get /scoreboead
+2/18 11:07:06 -> new users add -> elyas444
+2/18 11:07:09 -> get /scoreboead
+2/18 11:07:11 -> get /scoreboead
+2/18 11:07:45 -> new users add -> elyas88
+2/18 11:07:48 -> get /scoreboead
+2/18 11:08:24 -> get /scoreboead
+2/18 11:09:29 -> Express server listening on port 3030
+2/18 11:12:19 -> get /scoreboead
+2/18 11:12:56 -> get /scoreboead
+2/18 11:13:22 -> get /scoreboead
+2/18 11:13:33 -> get /scoreboead
+2/18 11:29:26 -> Express server listening on port 3030
+2/18 11:29:29 -> get /scoreboead
+2/18 11:30:39 -> get /scoreboead
+2/18 11:30:40 -> get /scoreboead
+2/18 11:30:40 -> get /scoreboead
+3/2 13:06:22 -> 1370
+3/2 13:06:22 -> Express server listening on port 3030
+3/2 13:08:21 -> 1370
+3/2 13:08:21 -> Express server listening on port 3030
+3/2 13:08:31 -> 1370
+3/2 13:08:31 -> Express server listening on port 3030
+3/2 13:08:32 -> 1370
+3/2 13:08:32 -> Express server listening on port 3030
+3/2 13:08:42 -> Express server listening on port 3030
+3/2 13:10:51 -> Express server listening on port 3030
+3/2 13:12:02 -> Express server listening on port 3030
+3/2 13:12:13 -> Express server listening on port 3030
+3/2 13:12:51 -> Express server listening on port 3030
+3/2 13:41:36 -> Express server listening on port 3030
+3/2 13:41:57 -> Express server listening on port 3030
+3/2 13:42:14 -> Express server listening on port 3030
+3/2 13:42:16 -> get /scoreboead
+3/2 13:44:45 -> Express server listening on port 3030
+3/2 13:45:37 -> Express server listening on port 3030
+3/2 13:45:43 -> Express server listening on port 3030
+3/2 13:46:32 -> Express server listening on port 3030
+3/2 13:47:44 -> Express server listening on port 3030
+3/2 13:47:59 -> get /scoreboead
+3/2 13:48:08 -> Express server listening on port 3030
+3/2 13:48:10 -> get /scoreboead
+3/2 13:48:32 -> Express server listening on port 3030
+3/2 13:50:04 -> Express server listening on port 3030
+3/2 13:50:07 -> get /scoreboead
+3/2 13:50:07 -> undefined
+3/2 13:53:42 -> Express server listening on port 3030
+3/2 13:54:01 -> Express server listening on port 3030
+3/2 13:55:22 -> Express server listening on port 3030
+3/2 13:55:26 -> get /scoreboead
+3/2 13:55:26 -> 1
+3/2 13:57:18 -> Express server listening on port 3030
+3/2 13:57:20 -> Express server listening on port 3030
+3/2 13:57:23 -> get /scoreboead
+3/2 13:57:23 -> [object Object]
+3/2 13:57:23 -> 1
+3/2 13:59:53 -> Express server listening on port 3030
+3/2 13:57:00 -> Express server listening on port 3030
+3/2 13:57:09 -> Express server listening on port 3030
+3/2 13:57:10 -> Express server listening on port 3030
+3/2 13:57:10 -> get /scoreboead
+3/2 13:57:10 -> 1
+3/2 13:57:10 -> 2
+3/2 13:57:38 -> Express server listening on port 3030
+3/2 13:57:40 -> get /scoreboead
+3/2 13:57:40 -> 2
+3/2 13:59:04 -> Express server listening on port 3030
+3/2 13:59:05 -> get /scoreboead
+3/2 13:59:12 -> Express server listening on port 3030
+3/2 13:59:16 -> get /scoreboead
+3/2 13:59:38 -> Express server listening on port 3030
+3/2 13:59:38 -> get /scoreboead
+3/2 13:59:45 -> Express server listening on port 3030
+3/2 13:59:57 -> Express server listening on port 3030
+3/2 14:03:07 -> Express server listening on port 3030
+3/2 14:03:15 -> Express server listening on port 3030
+3/2 14:03:54 -> Express server listening on port 3030
+3/2 14:03:56 -> get /scoreboead
+3/2 14:04:07 -> Express server listening on port 3030
+3/2 14:04:08 -> get /scoreboead
+3/2 14:04:08 -> [object Object]
+3/2 14:04:08 -> [object Object]
+3/2 14:05:09 -> Express server listening on port 3030
+3/2 14:05:38 -> Express server listening on port 3030
+3/2 14:05:47 -> Express server listening on port 3030
+3/2 14:05:47 -> get /scoreboead
+3/2 14:05:47 -> 6
+3/2 14:07:06 -> Express server listening on port 3030
+3/2 14:07:07 -> get /scoreboead
+3/2 14:07:07 -> 1
+3/2 14:07:07 -> 1
+3/2 14:07:07 -> 6
+3/2 14:07:15 -> Express server listening on port 3030
+3/2 14:07:20 -> get /scoreboead
+3/2 14:07:20 -> 1
+3/2 14:07:20 -> 1
+3/2 14:11:34 -> Express server listening on port 3030
+3/2 14:12:04 -> Express server listening on port 3030
+3/2 14:13:08 -> Express server listening on port 3030
+3/2 14:13:11 -> Express server listening on port 3030
+3/2 14:13:15 -> Express server listening on port 3030
+3/2 14:13:38 -> Express server listening on port 3030
+3/2 14:16:03 -> Express server listening on port 3030
+3/2 14:17:18 -> Express server listening on port 3030
+3/2 14:19:25 -> Express server listening on port 3030
+3/2 16:12:59 -> Express server listening on port 3030
+3/2 16:13:19 -> get /scoreboead
+3/2 16:13:19 -> 1
+3/2 16:13:19 -> 1
+3/2 16:14:35 -> Express server listening on port 3030
+3/2 16:14:36 -> get /scoreboead
+3/2 16:14:36 -> 1
+3/2 16:14:36 -> 1
+3/2 16:14:36 -> 1
+3/2 16:14:36 -> 1
+3/2 16:15:04 -> Express server listening on port 3030
+3/2 16:15:05 -> get /scoreboead
+3/2 16:15:05 -> A
+3/2 16:15:05 -> C
+3/2 16:15:05 -> A
+3/2 16:15:05 -> C
+3/2 16:15:26 -> get /scoreboead
+3/2 16:15:26 -> A
+3/2 16:15:26 -> C
+3/2 16:15:26 -> A
+3/2 16:15:26 -> B
+3/2 16:17:46 -> Express server listening on port 3030
+3/2 16:18:00 -> Express server listening on port 3030
+3/2 16:18:02 -> get /scoreboead
+3/2 16:18:02 -> 3762
+3/2 16:18:02 -> 3762
+3/2 16:18:51 -> get /scoreboead
+3/2 16:18:51 -> 3501
+3/2 16:18:51 -> 3762
+3/2 16:21:45 -> Express server listening on port 3030
+3/2 16:22:12 -> Express server listening on port 3030
+3/2 16:22:40 -> get /scoreboead
+3/2 16:23:15 -> Express server listening on port 3030
+3/2 16:23:17 -> get /scoreboead
+3/2 16:23:17 -> 3926
+3/2 16:23:17 -> 4262
+3/2 16:23:42 -> Express server listening on port 3030
+3/2 16:23:43 -> get /scoreboead
+3/2 16:23:43 -> max_score -> 3926
+3/2 16:23:43 -> max_score -> 4262
+3/2 16:25:14 -> Express server listening on port 3030
+3/2 16:26:16 -> Express server listening on port 3030
+3/2 16:26:23 -> get /scoreboead
+3/2 16:26:23 -> max_score -> 3501
+3/2 16:26:23 -> max_score -> 3762
+3/2 16:26:23 -> score -> 3501
+3/2 16:26:23 -> score -> 3762
+3/2 16:27:31 -> Express server listening on port 3030
+3/2 16:27:35 -> Express server listening on port 3030
+3/2 16:27:36 -> get /scoreboead
+3/2 16:27:36 -> max_score -> 3501
+3/2 16:27:36 -> score -> NaN
+3/2 16:27:36 -> max_score -> 3762
+3/2 16:27:36 -> score -> NaN
+3/2 16:29:30 -> Express server listening on port 3030
+3/2 16:29:35 -> Express server listening on port 3030
+3/2 16:29:37 -> get /scoreboead
+3/2 16:29:37 -> max_score -> 3501
+3/2 16:29:37 -> score -> NaN
+3/2 16:29:37 -> max_score -> 3762
+3/2 16:29:37 -> score -> NaN
+3/2 16:30:20 -> Express server listening on port 3030
+3/2 16:30:21 -> get /scoreboead
+3/2 16:30:21 -> max_score -> 3501
+3/2 16:30:21 -> score -> NaN
+3/2 16:30:21 -> max_score -> 3762
+3/2 16:30:21 -> score -> NaN
+3/2 16:32:04 -> Express server listening on port 3030
+3/2 16:32:47 -> Express server listening on port 3030
+3/2 16:32:51 -> get /scoreboead
+3/2 16:32:51 -> 4
+3/2 16:32:51 -> 84
+3/2 16:32:51 -> 2
+3/2 16:32:51 -> max_score -> 3501
+3/2 16:32:51 -> score -> NaN
+3/2 16:32:51 -> 1
+3/2 16:32:51 -> 105
+3/2 16:32:51 -> 0
+3/2 16:32:51 -> max_score -> 3762
+3/2 16:32:51 -> score -> NaN
+3/2 16:33:54 -> Express server listening on port 3030
+3/2 16:33:56 -> get /scoreboead
+3/2 16:33:56 -> 4
+3/2 16:33:56 -> 84
+3/2 16:33:56 -> 2
+3/2 16:33:56 -> max_score -> 3501
+3/2 16:33:56 -> score -> 4.384461582405027
+3/2 16:33:56 -> 1
+3/2 16:33:56 -> 105
+3/2 16:33:56 -> 0
+3/2 16:33:56 -> max_score -> 3762
+3/2 16:33:56 -> score -> 6.804450949762816
+3/2 16:34:19 -> Express server listening on port 3030
+3/2 16:34:22 -> get /scoreboead
+3/2 16:34:22 -> 4
+3/2 16:34:22 -> 84
+3/2 16:34:22 -> 2
+3/2 16:34:22 -> max_score -> 3501
+3/2 16:34:22 -> score -> 1350
+3/2 16:34:22 -> 1
+3/2 16:34:22 -> 105
+3/2 16:34:22 -> 0
+3/2 16:34:22 -> max_score -> 3762
+3/2 16:34:22 -> score -> 2932
+3/2 16:34:38 -> Express server listening on port 3030
+3/2 16:34:52 -> Express server listening on port 3030
+3/2 16:35:23 -> Express server listening on port 3030
+3/2 16:37:05 -> Express server listening on port 3030
+3/2 16:37:06 -> Express server listening on port 3030
+3/2 16:37:45 -> get /scoreboead
+3/2 16:37:45 -> 4
+3/2 16:37:45 -> 84
+3/2 16:37:45 -> 2
+3/2 16:37:45 -> max_score -> 3501
+3/2 16:37:45 -> score -> 4.384461582405027
+3/2 16:37:45 -> 1
+3/2 16:37:45 -> 105
+3/2 16:37:45 -> 0
+3/2 16:37:45 -> max_score -> 3762
+3/2 16:37:45 -> score -> 6.804450949762816
+3/2 16:41:45 -> Express server listening on port 3030
+3/2 16:41:52 -> Express server listening on port 3030
+3/2 16:41:54 -> get /scoreboead
+3/2 16:41:54 -> 4
+3/2 16:41:54 -> 84
+3/2 16:41:54 -> 2
+3/2 16:41:54 -> 1
+3/2 16:41:54 -> max_score -> 3501
+3/2 16:41:54 -> score -> 4.384461582405027
+3/2 16:41:54 -> 1
+3/2 16:41:54 -> 105
+3/2 16:41:54 -> 0
+3/2 16:41:54 -> 1
+3/2 16:41:54 -> max_score -> 3762
+3/2 16:41:54 -> score -> 6.804450949762816
+3/2 16:42:00 -> get /scoreboead
+3/2 16:42:00 -> 4
+3/2 16:42:00 -> 84
+3/2 16:42:00 -> 2
+3/2 16:42:00 -> 1
+3/2 16:42:00 -> max_score -> 3501
+3/2 16:42:00 -> score -> 4.384461582405027
+3/2 16:42:00 -> 1
+3/2 16:42:00 -> 105
+3/2 16:42:00 -> 0
+3/2 16:42:00 -> 1
+3/2 16:42:00 -> max_score -> 3762
+3/2 16:42:00 -> score -> 6.804450949762816
+3/2 16:43:56 -> Express server listening on port 3030
+3/2 16:43:59 -> get /scoreboead
+3/2 16:43:59 -> 4
+3/2 16:43:59 -> 84
+3/2 16:43:59 -> 2
+3/2 16:43:59 -> 1
+3/2 16:43:59 -> max_score -> 3501
+3/2 16:43:59 -> score -> 0.38446158240502715
+3/2 16:43:59 -> 1
+3/2 16:43:59 -> 105
+3/2 16:43:59 -> 0
+3/2 16:43:59 -> 1
+3/2 16:43:59 -> max_score -> 3762
+3/2 16:43:59 -> score -> 0.8044509497628156
+3/2 16:45:16 -> get /scoreboead
+3/2 16:45:16 -> 1
+3/2 16:45:16 -> 0
+3/2 16:45:16 -> 0
+3/2 16:45:16 -> 1
+3/2 16:45:16 -> max_score -> 2000
+3/2 16:45:16 -> score -> 1
+3/2 16:45:16 -> 1
+3/2 16:45:16 -> 105
+3/2 16:45:16 -> 0
+3/2 16:45:16 -> 1
+3/2 16:45:16 -> max_score -> 3762
+3/2 16:45:16 -> score -> 1.4199893673577884
+3/2 16:45:59 -> get /scoreboead
+3/2 16:45:59 -> 1
+3/2 16:45:59 -> 0
+3/2 16:45:59 -> 0
+3/2 16:45:59 -> 1
+3/2 16:45:59 -> max_score -> 2000
+3/2 16:45:59 -> score -> 1
+3/2 16:45:59 -> 1
+3/2 16:45:59 -> 105
+3/2 16:45:59 -> 0
+3/2 16:45:59 -> 1
+3/2 16:45:59 -> max_score -> 3762
+3/2 16:45:59 -> score -> 1.4199893673577884
+3/2 16:46:07 -> Express server listening on port 3030
+3/2 16:46:09 -> get /scoreboead
+3/2 16:46:09 -> 1
+3/2 16:46:09 -> 0
+3/2 16:46:09 -> 1
+3/2 16:46:09 -> 0
+3/2 16:46:09 -> max_score -> 2000
+3/2 16:46:09 -> score -> 1
+3/2 16:46:09 -> 1
+3/2 16:46:09 -> 105
+3/2 16:46:09 -> 0
+3/2 16:46:09 -> 1
+3/2 16:46:09 -> max_score -> 3762
+3/2 16:46:09 -> score -> 1.4199893673577884
+3/2 16:46:33 -> Express server listening on port 3030
+3/2 16:46:50 -> Express server listening on port 3030
+3/2 16:48:37 -> Express server listening on port 3030
+3/2 16:50:11 -> Express server listening on port 3030
+3/2 16:51:00 -> Express server listening on port 3030
+3/2 16:51:01 -> Express server listening on port 3030
+3/2 16:51:40 -> get /scoreboead
+3/2 16:51:57 -> Express server listening on port 3030
+3/2 16:52:02 -> get /scoreboead
+3/2 16:52:02 -> 1
+3/2 16:52:02 -> 0
+3/2 16:52:02 -> 0
+3/2 16:52:02 -> 1
+3/2 16:52:02 -> max_score -> 2000
+3/2 16:52:02 -> score -> 1
+3/2 16:52:02 -> 1
+3/2 16:52:02 -> 105
+3/2 16:52:02 -> 0
+3/2 16:52:02 -> 1
+3/2 16:52:02 -> max_score -> 3762
+3/2 16:52:02 -> score -> 1.4199893673577884
+3/2 16:53:14 -> Express server listening on port 3030
+3/2 16:54:05 -> Express server listening on port 3030
+3/2 16:54:07 -> get /scoreboead
+3/2 16:54:07 -> 1
+3/2 16:54:07 -> 0
+3/2 16:54:07 -> 1
+3/2 16:54:07 -> 0
+3/2 16:54:07 -> max_score -> 2000
+3/2 16:54:07 -> score -> 1
+3/2 16:54:07 -> 1
+3/2 16:54:07 -> 105
+3/2 16:54:07 -> 0
+3/2 16:54:07 -> 1
+3/2 16:54:07 -> max_score -> 3762
+3/2 16:54:07 -> score -> 1.4199893673577884
+3/2 16:55:17 -> Express server listening on port 3030
+3/2 16:55:20 -> get /scoreboead
+3/2 16:55:20 -> 1
+3/2 16:55:20 -> 0
+3/2 16:55:20 -> 0
+3/2 16:55:20 -> 1
+3/2 16:55:20 -> max_score -> 2000
+3/2 16:55:20 -> score -> 5
+3/2 16:55:20 -> 1
+3/2 16:55:20 -> 105
+3/2 16:55:20 -> 0
+3/2 16:55:20 -> 1
+3/2 16:55:20 -> max_score -> 3762
+3/2 16:55:20 -> score -> 6.419989367357789
+3/2 16:56:40 -> Express server listening on port 3030
+3/2 16:56:41 -> Express server listening on port 3030
+3/2 16:57:46 -> get /scoreboead
+3/2 16:57:46 -> 1
+3/2 16:57:46 -> 0
+3/2 16:57:46 -> 0
+3/2 16:57:46 -> 1
+3/2 16:57:46 -> max_score -> 2000
+3/2 16:57:46 -> 1
+3/2 16:57:46 -> 105
+3/2 16:57:46 -> 0
+3/2 16:57:46 -> 1
+3/2 16:57:46 -> max_score -> 3762
+3/2 16:57:46 -> score -> 6.419989367357789
+3/2 22:30:35 -> Express server listening on port 3030
+3/2 22:32:18 -> get /scoreboead
+3/2 22:32:18 -> 1
+3/2 22:32:18 -> 0
+3/2 22:32:18 -> 0
+3/2 22:32:18 -> 1
+3/2 22:32:18 -> max_score -> 2000
+3/2 22:32:18 -> 1
+3/2 22:32:18 -> 105
+3/2 22:32:18 -> 0
+3/2 22:32:18 -> 1
+3/2 22:32:18 -> max_score -> 3762
+3/2 22:32:18 -> score -> 6.419989367357789
+3/2 22:35:35 -> get /scoreboead
+3/2 22:35:35 -> 1
+3/2 22:35:35 -> 0
+3/2 22:35:35 -> 0
+3/2 22:35:35 -> 1
+3/2 22:35:35 -> max_score -> 2000
+3/2 22:35:35 -> 3
+3/2 22:35:35 -> 105
+3/2 22:35:35 -> 0
+3/2 22:35:35 -> 1
+3/2 22:35:35 -> max_score -> 3762
+3/2 22:35:35 -> score -> 6.370015948963317
+3/2 22:38:18 -> 2000
+3/2 22:38:18 -> Express server listening on port 3030
+3/2 22:38:34 -> 1762
+3/2 22:38:34 -> Express server listening on port 3030
+3/2 22:38:36 -> 1762
+3/2 22:38:36 -> Express server listening on port 3030
+3/2 22:39:10 -> 1392
+3/2 22:39:11 -> Express server listening on port 3030
+3/2 22:40:06 -> 1392
+3/2 22:40:06 -> Express server listening on port 3030
+3/2 22:40:11 -> 1392
+3/2 22:40:11 -> Express server listening on port 3030
+3/2 22:40:27 -> 1392
+3/2 22:40:28 -> Express server listening on port 3030
+3/2 22:41:36 -> 1392
+3/2 22:41:36 -> Express server listening on port 3030
+3/2 22:41:40 -> get /scoreboead
+3/2 22:41:40 -> max_score -> 2000
+3/2 22:41:40 -> max_score -> 3762
+3/2 22:41:40 -> score -> 6.370015948963317
+3/2 22:41:59 -> 1392
+3/2 22:41:59 -> Express server listening on port 3030
+3/2 22:42:08 -> 1392
+3/2 22:42:08 -> Express server listening on port 3030
+3/2 22:42:28 -> 1392
+3/2 22:42:28 -> Express server listening on port 3030
+3/2 22:42:47 -> 1392
+3/2 22:42:47 -> Express server listening on port 3030
+3/2 22:42:58 -> 1392
+3/2 22:42:58 -> Express server listening on port 3030
+3/2 22:43:47 -> 1392
+3/2 22:43:47 -> Express server listening on port 3030
+3/2 22:43:49 -> score -> 10.370015948963317
+3/2 22:45:34 -> 1392
+3/2 22:45:34 -> Express server listening on port 3030
+3/2 22:45:36 -> score -> 10.370015948963317
+3/2 22:46:03 -> score -> 10.360446570972886
+3/2 22:46:35 -> score -> 10.438409311348206
+3/2 22:48:44 -> score -> 10.375415282392026
+3/2 23:15:20 -> 1392
+3/2 23:15:20 -> Express server listening on port 3030
+3/2 23:16:37 -> 1392
+3/2 23:16:37 -> Express server listening on port 3030
+3/2 23:16:57 -> 1392
+3/2 23:16:57 -> Express server listening on port 3030
+3/2 23:17:00 -> score -> 0
+3/2 23:17:00 -> score -> 4
+3/2 23:17:38 -> 1392
+3/2 23:17:39 -> Express server listening on port 3030
+3/2 23:17:41 -> score -> 10.375415282392026
+3/2 23:17:41 -> score -> 4.452373467463062
+3/2 23:20:05 -> 1392
+3/2 23:20:05 -> Express server listening on port 3030
+3/2 23:20:57 -> 1392
+3/2 23:20:57 -> Express server listening on port 3030
+3/2 23:21:32 -> 1392
+3/2 23:21:32 -> Express server listening on port 3030
+3/2 23:21:50 -> score -> 4.452373467463062
+3/2 23:21:50 -> score -> 10.375415282392026
+3/2 23:24:21 -> 1392
+3/2 23:24:21 -> Express server listening on port 3030
+3/2 23:24:22 -> score -> 4.452373467463062
+3/2 23:24:22 -> score -> 10.375415282392026
+3/2 23:24:37 -> 1392
+3/2 23:24:37 -> Express server listening on port 3030
+3/2 23:24:37 -> score -> 4.452373467463062
+3/2 23:24:37 -> score -> 10.375415282392026
+3/2 23:26:22 -> 1392
+3/2 23:26:22 -> Express server listening on port 3030
+3/2 23:26:22 -> score -> 4.452373467463062
+3/2 23:26:22 -> score -> 10.375415282392026
+3/2 23:26:23 -> score -> 4.452373467463062
+3/2 23:26:23 -> score -> 10.375415282392026
+3/2 23:26:24 -> score -> 4.452373467463062
+3/2 23:26:24 -> score -> 10.375415282392026
+3/2 23:27:07 -> 1392
+3/2 23:27:07 -> Express server listening on port 3030
+3/2 23:27:13 -> 1392
+3/2 23:27:14 -> Express server listening on port 3030
+3/2 23:27:23 -> 1392
+3/2 23:27:23 -> Express server listening on port 3030
+3/2 23:29:13 -> 1392
+3/2 23:29:13 -> Express server listening on port 3030
+3/2 23:29:27 -> 1392
+3/2 23:29:27 -> Express server listening on port 3030
+3/2 23:29:34 -> 1392
+3/2 23:29:34 -> Express server listening on port 3030
+3/2 23:39:10 -> 1392
+3/2 23:39:10 -> Express server listening on port 3030
+3/2 23:49:43 -> 1392
+3/2 23:49:43 -> Express server listening on port 3030
+3/2 23:51:50 -> 1392
+3/2 23:51:50 -> Express server listening on port 3030
+3/2 23:51:59 -> Express server listening on port 3030
+3/2 23:53:30 -> Express server listening on port 3030
+3/4 13:59:36 -> Express server listening on port 3030
+3/4 13:57:42 -> get /scoreboead
+3/13 22:44:12 -> Express server listening on port 3030
+3/13 22:46:05 -> Express server listening on port 3030
+3/13 22:46:07 -> get /scoreboead

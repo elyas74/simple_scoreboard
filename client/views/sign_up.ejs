@@ -1,0 +1,157 @@
+<html xmlns="http://www.w3.org/1999/html">
+<head>
+    <title>ACM</title>
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+</head>
+<link href="/css/lib/bootstrap.min.css" rel="stylesheet">
+<link href="/css/fonts.css" rel="stylesheet">
+<link href="/css/style.css" rel="stylesheet">
+<link href="/css/lib/toastr.min.css" rel="stylesheet">
+<body>
+<h3 align="center">ACM ثبت نام</h3>
+<br><br>
+<div class="col-md-2"></div>
+<div align="left" class="col-md-8">
+
+
+<!-- groups show block -->
+<!-- Row start -->
+
+<div class="row">
+    <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="panel panel-default">
+            <div class="panel-heading clearfix">
+                <i class="icon-calendar"></i>
+                <h3 class="panel-title" align="center">کاربر های تایید شده به ترتیب زمان ثبت نام</h3>
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-11">
+                        <div class="form-group">
+                            <% for( var i = 0 ; i < data.length ; i++ ) { %>
+                            <label class="control-label col-xs-1"></label>
+                            <label class="control-label col-xs-11"><h4><%= i+1 + " - " + data[i].codeforces_username %></h4></label>
+                            <% } %>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-md-12 col-sm-12 col-xs-12">
+        <div class="panel panel-default">
+            <div class="panel-heading clearfix">
+                <i class="icon-calendar"></i>
+                <h3 class="panel-title" align="center">اطلاعات کاربر</h3>
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-11">
+                        <div class="form-group">
+                            <label class="control-label col-xs-3">نام</label>
+                            <div class="col-xs-9">
+                                <input type="text" id="first_name" class="form-control">
+                            </div>
+                        </div>
+
+                        <div class="clearfix"></div>
+                        <br>
+
+                        <div class="form-group">
+                            <label class="control-label col-xs-3">نام خانوادگی</label>
+                            <div class="col-xs-9">
+                                <input type="text" id="last_name" class="form-control">
+                            </div>
+                        </div>
+
+                        <div class="clearfix"></div>
+                        <br>
+
+                        <div class="form-group">
+                            <label class="control-label col-xs-3" >شماره دانشجویی</label>
+                            <div class="col-xs-9">
+                                <input type="text" class="form-control" id="student_number">
+                            </div>
+                        </div>
+
+                        <div class="clearfix"></div>
+                        <br>
+
+                        <div class="form-group">
+                            <label class="control-label col-xs-3" >شماره تلفن همراه</label>
+                            <div class="col-xs-9">
+                                <input type="text" class="form-control" id="mobile">
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+
+                        <br>
+
+                        <div class="form-group">
+                            <label class="control-label col-xs-3" >ایمیل</label>
+                            <div class="col-xs-9">
+                                <input type="text" class="form-control" id="email">
+                            </div>
+                        </div>
+                        <div class="clearfix"></div>
+                        <br>
+
+                        <div class="form-group">
+                            <label class="control-label col-xs-3" >codeforces نام کاربری</label>
+                            <div class="col-xs-9">
+                                <input type="text" class="form-control" id="codeforces_username">
+                            </div>
+                        </div>
+
+                        <div class="col-lg-3 col-sm-3 col-md-3 col-xs-3"></div>
+                        <div class="col-md-5 col-sm-5 col-xs-5">
+                            <div class="row">
+                                <div class="col-lg-12 col-sm-12 col-md-12 col-xs-12">
+                                    <br /><br />
+                                    <p>internet required...</p>
+                                    <div class="g-recaptcha" data-sitekey="6Le1VgYTAAAAAAN-Up1Fcz19YR0-139dS1h_cBCt"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="panel-body">
+                    <div class="col-lg-12 col-sm-12 col-md-12 col-xs-11">
+                <div class="row">
+                        <div class="col-md-3"></div>
+                            <div>
+                                <button type="submit" class="btn btn-primary col-md-2" id="button"> sumbit </button>
+                            </div>
+                            <div class="col-md-1"></div>
+                            <div>
+                                <a href="/scoreboard" class="btn btn-primary col-md-2"> scoreboard </a>
+                            </div>
+                        <div class="clearfix"></div>
+                        <br>
+                        <div class="clearfix"></div>
+                        <br>
+                    </div>
+                </div>
+            </div>
+        </div>
+</div>
+</div>
+ <!--Row end-->
+</body>
+<script src="/lib/jquery/dist/jquery.min.js"></script>
+<script src="/js/lib/bootstrap.min.js"></script>
+<script src="/js/lib/toastr.min.js"></script>
+<script src="/js/script.js"></script>
+</html>

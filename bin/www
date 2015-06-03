@@ -1,0 +1,26 @@
+#!/usr/bin/env node
+var debug = require('debug')('sim');
+var app = require('../app');
+var mongoose = require('mongoose');
+
+app.set('port', process.env.PORT || 3030);
+
+var server = app.listen(app.get('port'), function () {
+    var d = 'Express server listening on port ' + server.address().port;
+    debug(d);
+    console.log(d);
+});
+
+// mongo connect to
+
+mongoose.connect('mongodb://localhost/' + global.init.db_name);
+var db = mongoose.connection;
+// this line is the original one
+//db.on('error', console.error.bind(console, 'connection error:'));
+db.on('error', function (err) {
+    console.log('Error : Mongo connection error'.red);
+//    console.log(err);
+});
+db.once('open', function () {
+//    console.log("connected to mongo");
+});

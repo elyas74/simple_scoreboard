@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'b_yekan';
+    src: url('../fonts/b_yekan.ttf');
+    src: url('../fonts/b_yekan.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/b_yekan.woff') format('woff'),
+    url('../fonts/b_yekan.ttf') format('truetype');
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'BMitra';
+    src: url('../fonts/B%20Mitra%20Bold.ttf');
+    src: url('../fonts/B%20Mitra%20Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/B%20Mitra%20Bold.woff') format('woff'),
+    url('../fonts/B%20Mitra%20Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: BdroidNaskh;
+    src: url('../fonts/DroidNaskh-Bold.ttf');
+    src: url('../fonts/DroidNaskh-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/DroidNaskh-Bold.woff') format('woff'),
+    url('../fonts/DroidNaskh-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+

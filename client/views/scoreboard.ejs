@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>acm</title>
+</head>
+<body>
+<div class="col-md-1"></div>
+<div class="col-md-10">
+<link href="/css/lib/bootstrap.min.css" rel="stylesheet">
+<link href="../css/fonts.css" rel="stylesheet">
+<link href="../css/style.css" rel="stylesheet">
+<h2 align="center">sadjad ACM students scoreboard</h2>
+
+
+<table align="center" border="1" class="table table-striped col-md-7 table-bordered"  style="text-align:center" >
+    <tr>
+    <th style="text-align:center"><h4>meetings</h4></th>
+	<th style="text-align:center"><h4>problems/contests</h4></th>
+    <th style="text-align:center"><h4>contests</h4></th>
+    <th style="text-align:center"><h4>name</h4></th>
+	<th style="text-align:center"><h4>username</h4></th>
+	<th style="text-align:center"><h4>score</h4></th>
+    <th style="text-align:center"><h4>rank</h4> </th>
+    <th style="text-align:center"><h4>row</h4> </th>
+    </tr>
+    <% var a = 1 %>
+    <% for( var i = 0 ; i < data.length ; i++ ) { %>
+    <tr>
+        <%
+        var t = "0" ;
+        if( typeof data[i].questions != 'undefined' || typeof data[i].contests != 'undefined' ){
+            if(!(data[i].questions == 0 && data[i].contests == 0 ))
+            t = data[i].questions / data[i].contests ;
+        }
+
+        if( i > 0 &&( data[i].score != data[i-1].score) ){
+            a++ ;
+        }
+        %>
+
+        <td align="center"><%= typeof data[i].meetings == 'undefined' ? "0" : data[i].meetings %></td>
+        <td align="center"><%= t %></td>
+        <td align="center"><%= typeof data[i].contests == 'undefined' ? "0" : data[i].contests  %></td>
+        <td align="center"><%= typeof data[i].last_name == 'undefined' ? "0" : data[i].last_name  %></td>
+        <td align="center"><a href="<%="http://codeforces.com/profile/" +  data[i].codeforces_username %>" target="_blank"><%= data[i].codeforces_username %></a></td>
+	    <td align="center"><%= typeof data[i].score == 'undefined' ? "0" : data[i].score %></td>
+        <td align="center"><%= a %></td>
+        <td align="center"><%= i+1 %></td>
+    </tr>
+    <% } %>
+</table>
+</div>
+
+<div align="center">
+    <a href="/sign_up"><button class="btn btn-primary" type="button">ثبت نام کاربر جدید</button></a>
+    <br />
+</div>
+
+</body>
+<script src="/js/lib/bootstrap.min.js"></script>
+</html>

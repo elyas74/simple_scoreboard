@@ -1,0 +1,981 @@
+
+//if(req.url == '/del'){
+//    next();
+//} else if(req.session){
+//    db.contacts.findOne({_id : req.session.q },
+//        function(err,contact){
+//            if(contact){
+//                req.contact = contact ;
+//                next();
+//            } else {
+//                res.redirect('/del');
+//            }
+//        });
+//} else if (_.contains(include_guest_get ,req.url)) {
+//    next();
+//} else {
+//    res.redirect('/');
+//}
+
+//var sms = require('./sms');
+
+//sms.group_send(
+//    {
+//        message : "['salam','salam']" ,
+//        sender : "['10008080008000','10008080008000']",
+//        receptor : "['09375171110','09366877798']"
+//    },function(res){
+//        console.log(res);
+//    });
+
+//sms.account_info(function(res){
+//    console.log(res);
+//})
+//
+//var operator = {
+//    "nid" : "",
+//    "username" : "operator_1",
+//    "password" : "25d55ad283aa400af464c76d713c07ad",
+//    "name" : "",
+//    "family" : "",
+//    "nezamCode" : "",
+//    "mobile" : "",
+//    "email" : "",
+//    "roles" : ObjectId("544b3b702ab7ea7e6e771bf6"),
+//    "active" : true,
+//    "title" : "operator_1",
+//    "_log" : []
+//}
+//
+
+
+//console.log({
+//    '"username" : "operator_1",\n' +
+//    '"password" : "25d55ad283aa400af464c76d713c07ad",' + '\n'
+//    '"roles" : ObjectId("544b3b702ab7ea7e6e771bf6"),' + '\n'
+//    '"active" : true,' + '\n'
+//    '"title" : "operator_1",' + '\n'
+//    '"_log" : []' + '\n'
+//});
+
+//db.users.insert();
+
+
+//{
+//    "_id" : ObjectId("545d099c338adcb7063b1a72"),
+//    "nid" : "0923222995",
+//    "username" : "testtt",
+//    "password" : "25d55ad283aa400af464c76d713c07ad",
+//    "name" : "",
+//    "family" : "",
+//    "nezamCode" : "",
+//    "mobile" : "",
+//    "email" : "",
+//    "roles" : ObjectId("544b3b702ab7ea7e6e771bf6"),
+//    "active" : true,
+//    "title" : "testtt",
+//    "_log" : [
+//    {
+//        "cd" : ISODate("2014-11-07T18:04:12.629Z"),
+//        "cu" : "elyas"
+//    }
+//]
+//}
+
+var crypto = require('crypto');
+    var enc = function (str) {
+        var md5 = crypto.createHash('md5');
+        md5.update(str);
+        return md5.digest('hex');
+    };
+
+//array = [
+//    '09183678407' ,
+//    '09144540418' ,
+//    '09143418284' ,
+//    '09133254936' ,
+//    '09161183264' ,
+//    '09181411632' ,
+//    '09151117460' ,
+//    '09171635445' ,
+//    '09178362911' ,
+//    '09151611056' ,
+//    '09144131087' ,
+//    '09123274448' ,
+//    '09121326076' ,
+//    '09113315712' ,
+//    '09153400767' ,
+//    '09122417364' ,
+//    '09111545216' ,
+//    '09123732352' ,
+//    '09128733350' ,
+//    '09183730211' ,
+//    '09131661103' ,
+//    '09173153356' ,
+//    '09122821433' ,
+//    '09122516215' ,
+//    '09121510305' ,
+//    '09123609504' ,
+//    '09133408898' ,
+//    '09181317236' ,
+//    '09111717584' ,
+//    '09153040692' ,
+//    '09183110454' ,
+//    '09171416512' ,
+//    '09131510707'
+//]
+
+//for ( var mobile in array ){
+//    var str = "";
+//    str += '{';
+//    str += '"username" : "' + array[mobile] + '", ';
+//    str += '"password" : "' + String.hash(array[mobile])  + '", ';
+//    str += '"roles" : ObjectId("545487528f8c362f36866091"), ';
+//    str += '"active" : true, ';
+//    str += '"title" : "' + array[mobile] +'", ';
+//    str += '"_log" : []';
+//    str += '}';
+//    console.log(str);
+//}
+//var sms = require('send_sms');
+//
+//sms.unread({ isread : "0" },function(res){
+//    console.log(res);
+//})
+//
+
+//
+//sms.send({
+//    message: "تست",
+//    receptor: "09366877798"
+//}, function (res) {
+//    console.log(res)
+//});
+
+
+//var group = require('./sms/group_send');
+//var sms = require('send_sms');
+//var _ = require('underscore');
+
+
+//group.group({
+//    message: ['salam','salam'],
+//    receptor: ['09151194250','09366877798']
+//})
+
+//sms.group_send({
+//    message: ['است','تست','سلام'],
+//    receptor: ['093020219888','09375171110','09366877798'],
+//    sender : ['10008080008000','10008080008000' ,'10008080008000']
+//}, function (res) {
+//    console.log(res);
+//})
+//
+//
+//var data = {
+//    message: ['hi', 'hi'],
+//    receptor: ['09375171110', '09366877798'],
+//    sender: ['10008080008000' , '10008080008000']
+//}
+//
+//var new_data = "{" ;
+//
+//var c = _.size(data);
+//
+//for( var index in data ){
+//    var d = data[index].length;
+////    console.log(index);
+//    new_data += index ;
+//    new_data += " : " ;
+//    new_data += " \"[ " ;
+//    for ( var j in data[index] ){
+////        console.log(j);
+//        new_data += " \'" + data[index][j] + " \'" ;
+//        if(--d){
+//            new_data += ","
+//        }
+//    }
+//    new_data += " ]\" " ;
+////    new_data += "\"[" + data[index] + "]\"" ;
+//    if(--c){
+//        new_data += ",\n"
+//    }
+//
+//}
+//new_data += "}" ;
+
+//console.log(new_data);
+
+//for(key in data){
+//    data[key] = '[' + data[key].join("'","'") + ']';
+//}
+
+//console.log(data);
+
+//var d2 = JSON.parse(d);
+//sms.group_send(new_data, function (res) {
+//        console.log(res);
+//    });
+
+//sms.unread({}, function (res) {
+//    console.log(res);
+//})
+//
+//
+//var data = {
+//    message: ['hi', 'hello'],
+//    receptor: ['12345678', '87654321'],
+//    sender: ['10008080008000' , '10008080008000']
+//};
+//
+//
+//new_data = {};
+//
+//for( var index in data ){
+//    new_data[index] =  "["+ data[index]  ;
+//    for( var j in data[index] ){
+//        new_data[index][j] = '"' + data[index][j] + '"';
+//    }
+//    new_data[index] += "]";
+//}
+//
+//
+//console.log(new_data);
+
+
+//var data = {
+//    message: ['hi', 'hello'],
+//    receptor: ['12345678', '87654321'],
+//    sender: ['1000' , '2000']
+//}
+//
+//console.log(JSON.stringify(data));
+
+
+
+//var data = {
+//    message: ['hi', 'helllo'],
+//    receptor: ['12345678', '87654321'],
+//    sender: ['1000' , '2000']
+//}
+//
+//for(key in data){
+//    data[key] = '[\'' + data[key].join("','") + '\']';
+//}
+//console.log(data);
+//document.getElementById('out').innerHTML = JSON.stringify(data, undefined, 2);
+//
+//array = [
+//{
+//    "name" : "tehran",
+//    "title" : "تهران"
+//},
+//{
+//    "name" : "north_khorasan",
+//    "title" : "خراسان شمالی"
+//},
+//{
+//    "name" : "central_khorasan",
+//    "title" : "خراسان رضوی"
+//},
+//{
+//    "name" : "south_khorasan",
+//    "title" : "خراسان جنوبی"
+//},
+//{
+//    "name" : "east_azerbayjan",
+//    "title" : "آذربايجان شرقي"
+//},
+//{
+//    "name" : "west_azerbayjan",
+//    "title" : "آذربايجان غربي"
+//},
+//{
+//    "name" : "ardabil",
+//    "title" : "اردبيل"
+//},
+//{
+//    "name" : "isfahan",
+//    "title" : "اصفهان"
+//},
+//{
+//    "name" : "alborz",
+//    "title" : "البرز"
+//},
+//{
+//    "name" : "ilam",
+//    "title" : "ایلام"
+//},
+//{
+//    "name" : "bushehr",
+//    "title" : "بوشهر"
+//},
+//{
+//    "name" : "chahar_mahal_bakhtiari",
+//    "title" : "چهارمحال و بختياري"
+//},
+//{
+//    "name" : "khuzestan",
+//    "title" : "خوزستان"
+//},
+//{
+//    "name" : "zanjan",
+//    "title" : "زنجان"
+//},
+//{
+//    "name" : "semnan",
+//    "title" : "سمنان"
+//},
+//{
+//    "name" : "sistan",
+//    "title" : "سيستان و بلوچستان"
+//},
+//{
+//    "name" : "fars",
+//    "title" : "فارس"
+//},
+//{
+//    "name" : "qazvin",
+//    "title" : "قزوين"
+//},
+//{
+//    "name" : "qom",
+//    "title" : "قم"
+//},
+//{
+//    "name" : "kurdistan",
+//    "title" : "کردستان"
+//},
+//{
+//    "name" : "kerman",
+//    "title" : "کرمان"
+//},
+//{
+//    "name" : "kermanshah",
+//    "title" : "کرمانشاه"
+//},
+//{
+//    "name" : "kohgiluye",
+//    "title" : "کهگيلويه و بويراحمد"
+//},
+//{
+//    "name" : "golestan",
+//    "title" : "گلستان"
+//},
+//{
+//    "name" : "gilan",
+//    "title" : "گيلان"
+//},
+//{
+//    "name" : "lorestan",
+//    "title" : "لرستان"
+//},
+//{
+//    "name" : "mazandaran",
+//    "title" : "مازندران"
+//},
+//{
+//    "name" : "markazi",
+//    "title" : "مرکزي"
+//},
+//{
+//    "name" : "hormozgan",
+//    "title" : "هرمزگان"
+//},
+//{
+//    "name" : "hamedan",
+//    "title" : "همدان"
+//},
+//{
+//    "name" : "yazd",
+//    "title" : "يزد"
+//}
+//]
+//
+//
+//array.forEach(function(data){
+////    console.log(data.name);
+//    var d = "{" ;
+//        d+= " name : \"dabir_ejrayi_setad_ostani_" + data.name + "\" ,",
+//        d+=" title : \" دبیر اجرایی ستاد استانی " + data.title + "\" ,",
+//        d+=" users : []" + " ,",
+//        d+=" _log : []"
+//        d+="}"
+//    console.log(d);
+//})
+
+//{
+//    "name" : "dabir_ejrayi_setad_ostani_" + fa_ostan,
+//    "title" : "دبیر اجرایی ستاد استانی " + en_ostan ,
+//    "users" : [],
+//    "_log" : []
+//}
+
+//var db = require('mongo_schemas');
+//var sms_send = require('send_sms');
+//var async = require('async');
+//
+//var a = function () {
+//    sms_send.unread({}, function (data) {
+//        if (data.return.status == 200) {
+//            data.entries.forEach(function(sms){
+//                new db.income_sms_archive(sms)
+//                    .save(function(err,data){
+//                        if(err) console.log(" Warning : error while saving in DB".red);
+//                        if(data) console.log(data);
+//                    });
+//            });
+//        }
+//    })
+//}
+
+//async.waterfall([],function(err ,date){
+//    console.log(err);
+//    console.log(date)
+//});
+
+//setInterval(a, 7000);
+
+
+
+//var _ = require('underscore');
+
+//var d = {
+//    tehran: 264,
+//    hamedan: 4,
+//    fars: 4,
+//    qom: 5,
+//    isfahan: 25,
+//    central_khorasan: 19,
+//    alborz: 6,
+//    mazandaran: 4,
+//    khuzestan: 7,
+//    hormozgan: 8,
+//    golestan: 5,
+//    markazi: 1,
+//    lorestan: 7,
+//    west_azerbayjan: 6,
+//    east_azerbayjan: 8,
+//    south_khorasan: 1,
+//    bushehr: 5,
+//    north_khorasan: 3,
+//    kurdistan: 2,
+//    zanjan: 3,
+//    gilan: 2,
+//    ardabil: 2,
+//    kermanshah: 4,
+//    qazvin: 2,
+//    chahar_mahal_bakhtiari: 3,
+//    kerman: 1
+//}
+
+//var ostan = _.keys(d);
+//var value = _.values(d);
+
+//var obj = [] ;
+
+//for ( var i = 0 ; i < ostan.length ; i++ ){
+//    obj[i] = { ostan : ostan[i] ,value : value[i] } ;
+//}
+
+//console.log(obj);
+//
+//var speak = function(something){
+//    var _return = {
+//        a : "ddd" ,
+//        sum : function(){
+//            console.log(sum);
+//        }
+//    }
+//
+//    console.log(this.sum);
+//
+//    return _return ;
+//}
+
+//var someArgs = {
+//    a : "ddd" ,
+//    sum : function(){
+//        console.log(sum);
+//    }
+//};
+
+//speak.call(someArgs);
+//speak();
+
+////////var db = require('mongo_schemas');
+////////var convert_date = require('date');
+//////var Fibers = require('fibers');
+//////
+//////
+//////var sleep = function(time){
+//////    var fiber = Fibers.current;
+//////    setTimeout(function(){
+//////        fiber.run("done");
+//////    },time);
+//////    return Fibers.yield();
+//////};
+//////
+//////var main = function(){
+//////    console.log("berfore");
+//////    sleep(3000);
+//////    console.log("after");
+//////}
+//////
+//////
+//////Fibers(main).run();
+//////
+//////console.log("main");
+//////
+//////
+//////
+//////
+//////
+//////
+//////
+//////
+//////
+//////
+//////
+//////
+//////
+//////
+//////
+////////
+////////var date = new Date("Sat Nov 29 2014 00:00:00 GMT+0330 (IRST)");
+////////
+////////var ss = {
+////////    day : date.getDate() ,
+////////    month : date.getMonth()+1,
+////////    year : date.getFullYear()
+////////};
+////////
+////////console.log(ss);
+////////convert_date.to_shamsi(ss,function(res){
+////////    console.log(res);
+////////});
+//////
+//////
+////////db.tariffs.find({},{ title : true }).lean().exec(function(err ,res){
+////////    if(err){
+////////        console.log(err);
+////////    } else if (res){
+////////        console.log(res);
+////////    }
+////////});
+//////
+////////    convet_date.to_shamsi({
+////////    day : date.getDate() ,
+////////    month : date.getMonth(),
+////////    year : date.getFullYear()
+////////},function(res){
+//////////    data[i].date = res.year + "/" + res.month + "/" + res.day ;
+//////////    if(i == data.length-1){
+//////////        callback(null,data);
+//////////    }
+////////        console.log(res);
+////////});
+//////
+////////var date_convert = require('date');
+////////
+////////date_convert.to_miladi(
+////////    {
+////////        year : Number("1393") ,
+////////        month : Number("05") ,
+////////        day : Number("14")
+////////    },
+////////    function(result){
+////////        console.log(result);
+//////////        data.date = result ;
+//////////        console.log(data);
+//////////        new db.payments(data).save(function(err,r){
+//////////            if(err){
+//////////                console.log(err)
+//////////            } else if (r){
+//////////                res.json({ ok : true });
+//////////
+//////////            }
+//////////        });
+////////    });
+////
+////var db = require('mongo_schemas');
+////
+////db.tariffs.find({}, { title: true, _service_id: true ,cost : true })
+////    .lean().exec(function (err, data) {
+////        if (err) {
+////            console.log(err)
+////        } else if (data) {
+////            var _res = [];
+////
+////            for (var i = 0; i < data.length; i++) {
+////                // last stracture of speaking to client with array
+//////                _res[i] = [  data[i].title, data[i]._id , data[i]._service_id ];
+////
+////                // new one is object base
+////
+////
+////                _res[i] = {
+////                    title : data[i].title,
+////                    _id :  data[i]._id ,
+////                    service_id : data[i]._service_id
+////                };
+////            }
+////
+////            console.log(_res);
+////        }
+////    })
+//
+//
+var db = require('mongo_schemas');
+//var CronJob = require('cron').CronJob;
+//var Fibers = require('fibers');
+//
+//// this cron is something like this : 0 0 2 * * *
+
+
+////
+////job.start();
+
+
+//var sms = require('behdasht_sms');
+//sms.send({ message : "woops" ,receptor : "09366877798" },function(data) {
+//    console.log(data);
+//});
+
+
+//isDate(data.expired_date);
+
+
+
+----
+
+
+<script>
+//    function admin_res (_id){
+//        $('#popup_admin_table_del').on('click','#btn_admin_payment_del',function(){
+//            admin_del_payment(_id);
+//        });
+//    }
+
+    function admin_del_payment(_id) {
+        var admin_payment_data = {
+            _id : _id ,
+            delete : true
+        };
+        alert(JSON.stringify(admin_payment_data ,null ,"   "));
+        $.ajax(
+                {
+                    url: '/admin_change_payment',
+                    type: "POST",
+                    data: admin_payment_data,
+                    success: function (data) {
+                        alert(JSON.stringify(data,null,"    "));
+//                        $("#popup_admin_table_del").modal('hide');
+                        if (data.ok) {
+                            toastr.success('واریزی مورد نظر با موفقیت حذف شد.');
+                            setTimeout(function () {
+                                admin_payments_load();
+                            }, 1010);
+                        } else {
+                            toastr.error('سیستم قادر به حذف واریزی مورد نظر شما نیست.', 'خطا');
+                        }
+                    },
+                    error: function (err) {
+                        alert(JSON.stringify(err, null, "    "));
+                        return false;
+                    }
+                });
+        return true;
+    }
+    function admin_verify_payment(_id) {
+        var admin_payment_data = {
+            _id : _id ,
+            verify : true
+        };
+        $.ajax(
+                {
+                    url: '/admin_change_payment',
+                    type: "POST",
+                    data: admin_payment_data,
+                    success: function (data) {
+                        alert(data);
+    //                        $("#popup_admin_table_del").modal('hide');
+                        if (data.ok) {
+                            toastr.success('واریزی مورد نظر با موفقیت تایید شد.');
+                            setTimeout(function () {
+                                admin_payments_load();
+                            }, 1010);
+                        } else {
+                            toastr.error('سیستم قادر به تایید واریزی مورد نظر شما نیست.', 'خطا');
+                        }
+                    },
+                    error: function (err) {
+                        alert(JSON.stringify(err, null, "    "));
+                        return false;
+                    }
+                });
+        return true;
+    }
+</script>
+<table class="table table-striped table-bordered">
+    <thead>
+    <tr>
+        <th><p class="p2">ردیف</p></th>
+        <th><p class="p2">تعرفه</p></th>
+        <th><p class="p2">شماره کارت</p></th>
+        <th><p class="p2">تاریخ</p></th>
+        <th><p class="p2">سریال حواله</p></th>
+        <th><p class="p2">مبلغ تعرفه</p></th>
+        <th><p class="p2">مبلغ واریزی</p></th>
+        <th><p class="p2">وضعیت</p></th>
+        <th><p class="p2">عملیات</p></th>
+    </tr>
+    </thead>
+    <tbody>
+
+    <%
+    if(data && data.length){
+        for( var i = 0 ; i < data.length ; i++ ) {
+            var admin_id = data[i]._id;
+    %>
+    <tr>
+        <td><%= i + 1 %></td>
+        <td><%= data[i]._tariff_id ? data[i]._tariff_id : "-" %></td>
+        <td><%= data[i]._bank_id ? data[i]._bank_id : "-" %></td>
+        <td><%= data[i].date ? data[i].date : "-" %></td>
+        <td><%= data[i].serial ? data[i].serial : "-" %></td>
+        <td><%= data[i].tariff_cost ? data[i].tariff_cost : "-" %></td>
+        <td><%= data[i].price ? data[i].price : "-" %></td>
+        <td><%= data[i]._verify ? "تایید شده" : "در انتظار تایید" %></td>
+        <td>
+            <button type="button" id="payment_verify_<%= i + 1 %>" class="btn btn-success"
+                    onclick="admin_verify_payment(<%= "\'" + admin_id + "\'" %>)">تایید</button>
+            <button type="button" id="admin_payment_delete_<%= i + 1 %>" class="btn btn-info"
+                    onclick="admin_del_payment(<%= "\'" + admin_id + "\'" %>)"
+                    data-toggle="modal" data-target="#popup_admin_table_del" >حذف</button>
+        </td>
+    </tr>
+    <% }} %>
+    </tbody>
+</table>
+<!--<div class="modal fade" id="popup_admin_table_del" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">-->
+    <!--<div class="modal-dialog">-->
+        <!--<div class="modal-content">-->
+            <!--<div class="modal-header">-->
+                <!--<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>-->
+                <!--<h4 class="modal-title" id="myModalLabel">&nbsp;&nbsp;&nbsp;پیغام</h4>-->
+            <!--</div>-->
+            <!--<div class="modal-body">-->
+                <!--آیا مایل به حذف واریزی مورد نظر هستید؟-->
+            <!--</div>-->
+            <!--<div class="modal-footer">-->
+                <!--<button type="button" class="btn btn-default" data-dismiss="modal">خیر</button>-->
+                <!--<button type="button" class="btn btn-danger" id="btn_admin_payment_del">بله</button>-->
+            <!--</div>-->
+        <!--</div>-->
+    <!--</div>-->
+<!--</div>-->
+
+
+//
+//
+////var a = ;
+////console.log(a);
+//
+//
+//var data = {} ;
+//data.expired_date = "ddd" ;
+//var d = new Date(data.expired_date);
+//console.log(d + " /");
+//d.addDays(500);
+//
+
+
+//sms_send.unread({},function(data){
+//   console.log(data);
+//});
+//
+//sms_send.send(
+//    {
+//        message : "تست" ,
+//        sender : "10008080008000" ,
+//        to : "09366877798"
+//    },
+//    function(send ,status){
+//    console.temp(send);
+//    console.temp(status);
+//});
+
+//require('./sms/send_to_all!!').send_to_all("10900");
+//
+
+//
+//
+
+//var d = new Date();
+//
+//var db = require('mongo_schemas');
+
+//var a = "e" ;
+//var b = 122222 ;
+//
+//console.log( a > b );
+//
+
+//new db.cost_info({ date : "dddd" }).save(function(err,res){
+//    console.open(err);
+//    console.open(res);
+//})
+
+//
+//
+//db.cost_info.findOne().sort({ _id : -1 }).lean().exec(function(err,cost_info) {
+//    if (cost_info) {
+//        console.open(cost_info);
+//        var date = new Date(cost_info.date);
+//        console.log(date.getMinutes());
+//    }
+//});
+
+//console.log(d.getDate())
+
+//var date = new Date();
+//
+//convet_date.to_shamsi({
+//    day: date.getDate(),
+//    month: date.getMonth() + 1,
+//    year: date.getFullYear()
+//}, function (res) {
+//    console.log(res);
+//});
+
+//
+//fs = require('fs')
+//fs.writeFile('log.txt', 'abc', function (err,data) {
+//    if (err) {
+//        return console.log(err);
+//    }
+//    console.log(data);
+//});
+
+//fs.readFile('server/logs', 'utf8' , function(err,res){
+//    console.log(res);
+//});
+
+//fs.readFile('server/logs', 'utf8' , function(err,result){
+////                console.log(err);
+//    console.log(result);
+////    res.send(result);
+//});
+//
+//var d = {
+//    s : "sdsdsd" ,
+//    aa : "sdsdsd"
+//};
+//
+//console.open(d);
+//console.log(JSON.stringify(d));
+
+//console.log("سلام");
+
+var db = require('mongo_schemas');
+//
+//db.contacts.findByIdAndRemove("54a9b8406f7622f6690ffc91",function(err,result){
+//    if(err) console.log(err);
+//    console.open(result);
+//});//
+
+//var b = true ;
+//var new_status = !b;
+
+//console.temp(new_status);
+//
+
+//require('sms_send_log')(
+//    {
+//        to : "09366877798" ,
+//        message : "اشتراک یک هفته ای (رایگان) شما در سامانه ثبت شد و کلمه عبور شما"
+//            + " " + 1236544 + " " + "میباشد\n" +
+//            "برای دریافت منوی راهنما عدد ۱ را ارسال کنید."
+//    },"reply");
+
+//db.payments.find({ price : { $not : /^0/ } },{},function(err,payments){
+//    console.open(payments);
+//})
+
+//var sms = require('send_sms');
+//
+//sms.status()
+
+
+//var a = "aa    " ;
+//console.log(trim(a));
+
+//var d = new Date();
+//
+//console.log(d.getHours() + " : " + d.getMinutes());
+
+//new db.cost_info({
+//    "cost" : 9150,
+//    "date" : "Wed Jan 07 2015 19:13:17 GMT+0330 (IRST)",
+//    "_enable" : true,
+//    "__v" : 0
+//}).save();
+
+//var a = '1';
+//
+//if(a=='۱')console.log('YES');
+//else console.log('NO')
+
+
+
+var a = {a:2};
+//console.log(JSON.stringify(a));
+
+//try {
+//    var json = JSON.parse(JSON.stringify(a));
+//    console.open(json);
+//}catch(e){
+//    console.log('invalid json ' + e) ;
+//}
+
+//var rr =  toEn("۴-۳78۳۴۳۴۳۴۳۴۳۴۴-۳۴۳۴");
+//console.log(rr);
+
+//function toEn(str){
+//    str = String(str);
+//    for(var i = 0 ; i < str.length ; i++){
+//        var temp = str.charAt(i).charCodeAt(0);
+//        if(temp >= 1776 && temp <= 1785 )temp -=1728;
+//        str = str.substr(0, i) + String.fromCharCode(temp) + str.substr(i+1);
+//    }
+//    return str ;
+//}
+
+
+//try{
+//    var a = 2 ;
+//}catch (e){
+//    console.log(e);
+//}
+
+//var str = " 88  7";
+////a = a.replace(/^\s+|\s+$/g, '');
+//str = str.replace(/\s+/g, '');
+//console.log(str);
+//
+
+//function trim(str){
+//    return str.replace(/\s+/g, '');
+//}
+
+//var a = 22222 ;
+//console.log();
+
+//var wrong = 0 ;
+//for(var i = 0 ; i < 100000000000 ; i++){
+//    var temp = String.password_generator();
+////    if(!(i%500)) console.log(i);
+//    if(temp < 100000 || temp > 999999) wrong++;
+//    if(i==99999) console.log('Wrong -> ' + wrong);
+//}

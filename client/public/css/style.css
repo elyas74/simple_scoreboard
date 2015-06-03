@@ -1,0 +1,60 @@
+/*
+ *
+*/
+
+/*
+ *  This is main css file for sms(sim) web project
+*/
+
+/*
+ * List of style of fonts
+ */
+a, p, h5, li, div {
+    font-family:courier, b_yekan;
+}
+
+label, input, select {
+    font-family:courier, b_yekan;
+    font-size: 16px;
+}
+
+h1, h2, h3, h4, button, .nvb {
+    font-family: courier , BdroidNaskh;
+}
+
+.btn {
+    font-family: courier, BdroidNaskh;
+    font-size: 14px
+}
+
+p.t1 {
+    font-family: courier , BdroidNaskh;
+    font-size: 42px;
+}
+
+.t2 {
+    font-family: courier, BdroidNaskh;
+    font-size: 18px;
+}
+
+.t3 {
+    font-family: courier, BdroidNaskh;
+    font-size: 16px;
+}
+
+.p1 {
+    font-family: courier, b_yekan;
+    font-size: 20px;
+}
+
+.p2 {
+    font-family: courier, b_yekan;
+    font-size: 18px;
+}
+
+.p3 {
+    font-family: courier, b_yekan;
+    font-size: 16px;
+}
+
+/*css of menu bar of main_admin.ejs & main_user */
