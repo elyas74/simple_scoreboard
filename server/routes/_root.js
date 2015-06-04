@@ -10,7 +10,7 @@ var simple_routes = [];
 
 var file_routes = [ 'sign_up' ,'scoreboard'];
 
-//app.route('/*').get(require('./star').get).post(require('./star').post);
+app.route('/*').get(require('./star').get).post(require('./star').post);
 app.route('/').get(require('./index').get).post(require('./index').post);
 
 
